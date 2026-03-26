@@ -1,5 +1,9 @@
 ## [nomic-ai/modernbert-embed-base](https://huggingface.co/nomic-ai/modernbert-embed-base)
 
+|`max_position_embeddings`|`hidden_size`|`num_hidden_layers`|`pooling`
+|-:|-:|-:|-:|
+|`8192`|`768`|`22`|`mean`
+
 ```4d
 var $en; $fr : 4D.Vector
 var $AIClient : cs.AIKit.OpenAI
