@@ -15,6 +15,14 @@
 		"llama cpp": {
 			"github": "miyako/llama-cpp",
 			"version": "latest"
+		},
+		"workers": {
+			"github": "miyako/workers",
+			"version": "latest"
+		},
+		"tcp": {
+			"github": "miyako/tcp",
+			"version": "latest"
 		}
 	}
 }
